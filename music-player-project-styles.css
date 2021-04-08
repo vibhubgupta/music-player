@@ -1,0 +1,69 @@
+html{
+	background-color: rgba(12,16,39,1);
+	font-size: 15px;
+	color: white !important;
+}
+.nav-bg{
+	background-color: rgba(12,16,39,1);
+}
+.bg-search-color{
+	background-color: rgb(18, 25, 62);
+}
+.searchbar div span{
+	border: 0px solid rgb(18,25, 62);
+}
+.searchbar input{
+	border: 0px solid rgb(18,25, 62);
+}
+.searchbar div span i{
+	color: white;
+}
+
+.horizontal-list{
+	list-style: none;
+	padding-left: 0px;
+	text-align: center;
+	margin: 0px;
+}
+.horizontal-list li{
+	display: inline-block;
+	margin:0px 5px 5px 0px;
+	font-weight: 100;
+	font-size: 0.9rem;
+}
+.horizontal-list li a{
+	color: white;
+	text-decoration: none;
+}
+.circular-profile-pic{
+	border: 0px;
+	height: 3rem;
+	width: 3rem;
+}
+.circular-profile-pic img{
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+	border: 0px solid white;
+}
+
+/* playlist promotion*/
+/*.playlist-promotions{
+	margin: 10%;
+
+	width: 55%;
+	height: auto;
+	min-height: 20rem;
+	background-color: white;
+	border: 2px solid black;
+}
+.playlist-mid{
+	z-index: 2;
+}
+.playlist{
+	padding: 20px;
+}
+.playlist-mid img{
+	width: 120%;
+	height: 120%;
+}*/
